@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/github/AppDLicenseCount/execLib/AppDynamicsLC_1.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/github/AppDLicenseCount/execLib/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/github/AppDLicenseCount/execLib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/github/AppDLicenseCount/execLib/jackson-core-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/github/AppDLicenseCount/execLib/jackson-jaxrs-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/github/AppDLicenseCount/execLib/jackson-mapper-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/github/AppDLicenseCount/execLib/jackson-xc-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/github/AppDLicenseCount/execLib/jcommon-1.0.21.jar"/>
+	<classpathentry kind="lib" path="C:/github/AppDLicenseCount/execLib/jersey-client-1.17.1.jar"/>
+	<classpathentry kind="lib" path="C:/github/AppDLicenseCount/execLib/jersey-core-1.17.1.jar"/>
+	<classpathentry kind="lib" path="C:/github/AppDLicenseCount/execLib/jersey-json-1.17.1.jar"/>
+	<classpathentry kind="lib" path="C:/github/AppDLicenseCount/execLib/jersey-multipart-1.17.1.jar"/>
+	<classpathentry kind="lib" path="C:/github/AppDLicenseCount/execLib/jersey-server-1.17.1.jar"/>
+	<classpathentry kind="lib" path="C:/github/AppDLicenseCount/execLib/jersey-servlet-1.17.1.jar"/>
+	<classpathentry kind="lib" path="C:/github/AppDLicenseCount/execLib/jettison-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/github/AppDLicenseCount/execLib/poi-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/github/AppDLicenseCount/execLib/poi-examples-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/github/AppDLicenseCount/execLib/poi-excelant-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/github/AppDLicenseCount/execLib/poi-ooxml-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/github/AppDLicenseCount/execLib/poi-ooxml-schemas-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/github/AppDLicenseCount/execLib/poi-scratchpad-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/github/AppDLicenseCount/execLib/RESTAPI_1.0.16.jar"/>
+	<classpathentry kind="lib" path="C:/github/AppDLicenseCount/execLib/xbean.jar"/>
+	<classpathentry kind="lib" path="C:/github/AppDLicenseCount/execLib/xbean_xpath.jar"/>
+	<classpathentry kind="lib" path="C:/github/AppDLicenseCount/execLib/xmlbeans-qname.jar"/>
+	<classpathentry kind="lib" path="C:/github/AppDLicenseCount/execLib/xmlpublic.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
